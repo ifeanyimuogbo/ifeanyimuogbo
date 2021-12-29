@@ -6,6 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ifeanyimuogbo)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ifeanyi_md)
 
+
 ### Glad to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ifeanyimuogbo.ifeanyimuogbo)
 
 I am a full-stack software engineer and occassional technical writer.
@@ -18,10 +19,10 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 **Activities:**
 
 - 👨🏻‍💻 I’m currently working on something cool at DevCenter;
-- 🚀 I’m currently learning web 3.0
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I occassionally write articles on [hashnode](https://blog.ifeanyimuogbo.me);
-- 📫 How to reach me: ifeanyichukwumuogbo@gmail.com;
+- 🚀 I’m currently learning web 3.0;
+- 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
+- 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
+- 📝 Sometimes a writer -- [hashnode](https://blog.ifeanyimuogbo.me);
 - 📝 [Resume](https://drive.google.com/file/d/1TFVbCSlWrVQFxwG7uavvleoGJvHfrwYJ/view?usp=sharing).
 
 </br>
