@@ -10,7 +10,7 @@
 
 I am a full-stack software engineer and occassional technical writer.
 
-As a software engineer, I enjoy using my obsessive attention to detail and unequivocal love for making things to change the world, a line of code at a time. 
+As a software engineer, I enjoy using my obsessive attention to detail and unequivocal love for building to change the world, a line of code at a time. 
 
 <img align="right" alt="GIF" src="https://github.com/ifeanyimuogbo/ifeanyimuogbo/blob/main/coding.gif?raw=true" width="408" height="318" />
   
