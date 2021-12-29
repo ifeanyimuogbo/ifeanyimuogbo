@@ -22,7 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 - 🚀 I’m currently learning web 3.0;
 - 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
 - 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
-- 📝 Sometimes a writer -- [hashnode](https://blog.ifeanyimuogbo.me);
+- 📝 Sometimes, a writer -- on [Hashnode](https://blog.ifeanyimuogbo.me);
 - 📝 [Resume](https://drive.google.com/file/d/1TFVbCSlWrVQFxwG7uavvleoGJvHfrwYJ/view?usp=sharing).
 
 </br>
