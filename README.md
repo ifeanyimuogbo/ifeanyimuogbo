@@ -18,6 +18,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 
 **Activities:**
 - 💡 I'm extremely good at React and everything Javascript;
+- 📚 I pick up/ learn new frameworks and technologies amazingly fast;
 - 🚀 I’m currently exploring and learning everything web 3.0;
 - 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
 - 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
