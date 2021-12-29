@@ -18,7 +18,6 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 
 **Activities:**
 
-- 👨🏻‍💻 I’m currently working on something cool at DevCenter;
 - 🚀 I’m currently learning web 3.0;
 - 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
 - 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
