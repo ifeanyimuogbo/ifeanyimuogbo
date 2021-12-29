@@ -6,16 +6,16 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ifeanyimuogbo)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ifeanyi_md)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ifeanyimuogbo.ifeanyimuogbo)
+### Glad to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ifeanyimuogbo.ifeanyimuogbo)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a full-stack software engineer and occassional technical writer.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail and unequivocal love for making things to change the world, a line of code at a time. 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ifeanyimuogbo/ifeanyimuogbo/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**Activities:**
 
 - 👨🏻‍💻 I’m currently working on something cool at DevCenter;
 - 🚀 I’m currently learning web 3.0
