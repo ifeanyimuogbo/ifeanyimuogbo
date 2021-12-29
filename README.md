@@ -9,7 +9,7 @@
 
 ### Glad to have you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ifeanyimuogbo.ifeanyimuogbo)
 
-I am a full-stack software engineer and occassional technical writer.
+I am a full-stack software engineer.
 
 As a software engineer, I enjoy using my obsessive attention to detail and unequivocal love for building to change the world, a line of code at a time. 
 
