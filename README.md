@@ -18,7 +18,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 
 **Activities:**
 - 💡 I'm extremely good at React and everything Javascript;
-- 🚀 I’m currently exploringa and learning everything web 3.0;
+- 🚀 I’m currently exploring and learning everything web 3.0;
 - 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
 - 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
 - 📝 Sometimes, a writer -- on [Hashnode](https://blog.ifeanyimuogbo.me);
