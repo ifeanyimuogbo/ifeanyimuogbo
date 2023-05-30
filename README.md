@@ -23,7 +23,6 @@ As a software engineer, I enjoy using my obsessive attention to detail and unequ
 - 💬 Need help/ mentorship? Ask away, I'd be happy to help 👇🏻;
 - 📫 Reach me: ifeanyichukwumuogbo@gmail.com;
 - 📝 Sometimes, a writer -- on [Hashnode](https://blog.ifeanyimuogbo.me);
-- 📝 [Resume](https://drive.google.com/file/d/1h-DYWWS7dFPm7N3_wVSUkCnWAb_1Hqi5/view?usp=sharing).
 
 </br>
 
