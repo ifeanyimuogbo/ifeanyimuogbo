@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-**Senior Software Engineer** with nearly a **decade of hands-on experience** building and shipping production systems—from early-stage startups to large global organizations. I work comfortably across **full-stack web, mobile, and blockchain development**, with particular expertise in **Node.js backend systems** and **P2P networking**.
+**Senior Software Engineer** with nearly a **decade of hands-on experience** building and shipping production systems—from early-stage startups to large global organizations. I work comfortably across **full-stack web, mobile, and blockchain development**, with particular expertise in **Node.js backend systems**.
 
 I take **full ownership** of complex systems: from architecting scalable solutions and writing performant code to deploying smoothly and maintaining long-term reliability. My sweet spot is **high-performance Node.js applications** and **distributed systems design**, while maintaining broad expertise across the entire technology stack.
 
