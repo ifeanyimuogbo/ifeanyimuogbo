@@ -41,7 +41,7 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 
 **🌟 Key Achievements**
 - **Tarjimly:** Architected scalable Node.js backend services handling real-time translation sessions across multiple continents with **sub-100ms latency**
-- **MTN MoMo PSB:** Built distributed **Web3 wallet infrastructure** using Node.js microservices for millions of users, implementing custom P2P communication protocols
+- **MTN MoMo PSB:** Built distributed **Web3 wallet infrastructure** using Node.js microservices for millions of users
 - **PeopleBeam:** Designed event-driven Node.js architecture for **real-time OKR tracking** with WebSocket-based live updates and distributed caching
 - **Healthbotics:** Built **high-availability blood donation platform** with Node.js clustering and real-time inventory synchronization across multiple facilities
 
@@ -70,7 +70,7 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 
 **🌐 [Full-Stack Translation Platform - Tarjimly](https://github.com/ifeanyimuogbo)**
 - **Full-stack system:** React Native mobile apps + Node.js microservices architecture
-- **Tech:** React Native, Node.js, Socket.io, Redis Cluster, Docker, WebRTC for P2P connections
+- **Tech:** React Native, Node.js, Socket.io, Redis Cluster, Docker, WebRTC 
 - **Backend Focus:** Real-time peer discovery, distributed session management, sub-100ms latency
 - **Impact:** Handles 100K+ concurrent translation sessions globally across mobile and web
 
@@ -81,14 +81,14 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 - **Scale:** Processes 50K+ inventory updates/minute across distributed nodes
 
 **💰 [Web3 Wallet Infrastructure - MTN MoMo](https://github.com/ifeanyimuogbo)**
-- **Mobile + Backend system:** React Native wallet app with Node.js P2P payment network
+- **Mobile + Backend system:** React Native wallet app with Node.js 
 - **Tech:** React Native, Node.js, Solidity, libp2p, custom protocols, Ethereum, Java Spring Boot
 - **Impact:** Serves millions of users with 99.99% uptime and distributed fault tolerance
 
 ---
 
-> *"Full-stack engineer with deep Node.js expertise and P2P networking capabilities. I build end-to-end systems that scale to millions while maintaining exceptional performance."*
+> *"Full-stack engineer with deep Node.js expertise. I build end-to-end systems that scale to millions while maintaining exceptional performance."*
 
-**Specialized in:** Full-Stack Development • Node.js Performance Engineering • P2P Systems • Mobile Applications • Web3/Blockchain
+**Specialized in:** Full-Stack Development • Node.js Performance Engineering • Mobile Applications • Web3/Blockchain
 
 **Open to:** Senior/Lead Engineering roles • Node.js P2P positions • Full-stack architecture • Distributed systems consulting • Web3/Blockchain projects
