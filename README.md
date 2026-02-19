@@ -83,7 +83,6 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 **💰 [Web3 Wallet Infrastructure - MTN MoMo](https://github.com/ifeanyimuogbo)**
 - **Mobile + Backend system:** React Native wallet app with Node.js P2P payment network
 - **Tech:** React Native, Node.js, Solidity, libp2p, custom protocols, Ethereum, Java Spring Boot
-- **P2P Innovation:** Direct peer transaction routing, DHT-based discovery, network resilience  
 - **Impact:** Serves millions of users with 99.99% uptime and distributed fault tolerance
 
 ---
