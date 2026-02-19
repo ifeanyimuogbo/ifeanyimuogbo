@@ -23,8 +23,7 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 ### 💼 Core Expertise
 
 **🚀 Backend & Systems (Node.js Specialist)**
-- **Advanced Node.js:** Event loops, clustering, worker threads, streams, and performance optimization
-- **P2P Networking:** WebRTC, Socket.io, custom protocol implementation, NAT traversal
+- **Advanced Node.js:** Event loops, clustering, worker threads, streams, and performance optimization, WebRTC, Socket.io, custom protocol implementation, NAT traversal
 - **Distributed Systems:** Microservices, message queues (RabbitMQ, Kafka), service mesh architecture
 - **Real-time Applications:** Live data synchronization, bidirectional communication, low-latency systems
 
@@ -34,8 +33,7 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 - **Backend:** Node.js (expert), Python, Django, Flask, PHP, Laravel
 
 **⚡ Core Technology Stack**
-- **Node.js Ecosystem:** Express, Fastify, NestJS, TypeScript, JavaScript (ES6+)
-- **Networking:** WebSockets, Socket.io, WebRTC, TCP/UDP protocols, HTTP/2, gRPC
+- **Node.js Ecosystem:** Express, Fastify, NestJS, TypeScript, JavaScript (ES6+), WebSockets, Socket.io, WebRTC, TCP/UDP protocols, HTTP/2, gRPC
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase, Supabase
 - **Web3/Blockchain:** Solidity, EVM, Foundry, Hardhat, Ethereum integrations
 - **DevOps:** AWS, GCP, Docker, Kubernetes, CI/CD pipelines
