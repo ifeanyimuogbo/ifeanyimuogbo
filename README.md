@@ -44,14 +44,7 @@ I take **full ownership** of complex systems: from architecting scalable solutio
 - **MTN MoMo PSB:** Built distributed **Web3 wallet infrastructure** using Node.js microservices for millions of users, implementing custom P2P communication protocols
 - **PeopleBeam:** Designed event-driven Node.js architecture for **real-time OKR tracking** with WebSocket-based live updates and distributed caching
 - **Healthbotics:** Built **high-availability blood donation platform** with Node.js clustering and real-time inventory synchronization across multiple facilities
-- **P2P Expertise:** Deep understanding of **decentralized protocols**, DHT networks, and peer discovery mechanisms from blockchain development
 
-**🔗 P2P & Networking Expertise**
-- **WebRTC Implementation:** Direct peer-to-peer data channels, STUN/TURN server optimization
-- **Custom Protocols:** UDP hole punching, NAT traversal techniques, connection reliability
-- **Distributed Consensus:** Raft algorithm implementation, Byzantine fault tolerance patterns
-- **Network Optimization:** TCP connection pooling, bandwidth throttling, adaptive bitrate control
-- **Security:** End-to-end encryption in P2P networks, secure key exchange protocols
 
 **📫 Let's Connect:** hello@ifeanyimuogbo.com • [Blog](https://blog.ifeanyimuogbo.me) • [Node.js Articles](https://blog.ifeanyimuogbo.me/series/nodejs)
 
