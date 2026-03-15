@@ -17,12 +17,11 @@ Before Tarjimly, I shipped mobile apps and APIs at PeopleBeam, MTN MoMo PSB, Sut
 
 ```
 Frontend     React · Next.js · TypeScript · Vue · Angular
-Mobile       React Native · Expo · React Navigation · Redux
+Mobile       React Native · Expo · React Navigation · Redux · Dart · Flutter
 Backend      Node.js · NestJS · Python · FastAPI · Django · Go
 Web3         Solidity · ethers.js · Hardhat · Hyperswarm · Hyperbee
 Infra        AWS · GCP · Docker · Kubernetes · Terraform · Nginx
 Data         PostgreSQL · MongoDB · Redis · RabbitMQ · Kafka
-Auth         JWT · OAuth2 · Web3 wallet-based auth
 ```
 
 ---
@@ -35,8 +34,8 @@ React Native app connecting hospitals with on-demand medical interpreters. Built
 - Multi-six-figure hospital contracts closed in **year one**
 - Zero-downtime releases across iOS and Android
 
-### 💰 MTN MoMo PSB — Mobile Money (Nigeria)
-Core contributor to the MTN Mobile Money Platform — payments, P2P transfers, and agent banking infrastructure serving millions of Nigerians.
+### 💰 MTN MoMo PSB - Mobile Money
+Core contributor to the MTN Mobile Money Platform — payments, P2P transfers, and agent banking infrastructure serving millions.
 
 ### 👥 PeopleBeam — HR Platform
 Full-stack development for workforce management tooling — backend APIs, admin dashboards, and mobile interfaces.
