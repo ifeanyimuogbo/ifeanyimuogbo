@@ -51,7 +51,7 @@ Mobile and web applications in the health automation and enterprise productivity
 
 ## Background
 
-- 🎓 **MBBS, University of Ibadan** — Medical doctor turned software engineer
+- 🎓 **MBBS — Medical doctor turned software engineer
 - 🎓 **HarvardX CS50** — Computer Science fundamentals
 - ☁️ **Udacity Cloud Engineering Nanodegree** (2021)
 - 🎤 **Speaker, Google I/O Extended** — GDG Enugu 2022
